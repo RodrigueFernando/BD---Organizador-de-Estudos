@@ -17,7 +17,7 @@ CREATE TABLE tarefa (
     FOREIGN KEY (usuario_id) REFERENCES usuario(id)
 );
 
-CREATE TABLE tarefa_materia (
+CREATE TABLE materia (
     tarefa_id INT,
     materia_id INT,
     PRIMARY KEY (tarefa_id, materia_id),

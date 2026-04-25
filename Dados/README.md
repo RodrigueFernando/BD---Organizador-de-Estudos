@@ -62,7 +62,6 @@ Execute o script:
 schema.sql
 insert_data.sql
 
-
 ---
 
 ##  Autor
