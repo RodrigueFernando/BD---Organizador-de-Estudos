@@ -29,3 +29,12 @@ INSERT INTO questionario (id, descricao, simulado_id) VALUES
 -- RESULTADO (1:1 com simulado)
 INSERT INTO resultado (id, nota, feedback, simulado_id) VALUES
 (1, 8.5, 'Bom desempenho', 1);
+
+
+
+
+
+
+
+
+
